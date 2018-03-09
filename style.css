@@ -1,0 +1,17 @@
+#container {
+	height: 400px;
+	text-align: center;
+}
+
+.box {
+	width: 25%;
+	height: 300px;
+	display: inline-block;
+	padding: 10px;
+	margin: 0 20px 0 20px;
+	font-size: 110%;
+}
+
+.box:hover {
+	background-color: red;
+}
